@@ -1,3 +1,38 @@
+# Usage
+
+1. **Clone the Repository**
+
+2. **Navigate to the Project Directory**
+
+3. **Install Dependencies**
+
+```bash
+npm install
+```
+
+4. **Run the Development Server**
+
+```bash
+npm run dev
+```
+
+
+Note: Above command combines the TypeScript compilation and starting the node server in one step - defined in `package.json` file.
+
+### Additional Commands
+
+- **Build**: Compile the TypeScript files to JavaScript
+
+```bash
+npm run build
+```
+
+- **Start**: Run the compiled JavaScript
+
+```bash
+npm start
+```
+
 # Adventurer Journey - Back End
 Please complete the story below and create a program to solve the problem. Commit any work back to the remote no later than 48 hours before the next interview.
 

@@ -1,0 +1,20 @@
+{
+  "name": "dan-tulpa-adventurer-journey-be",
+  "version": "1.0.0",
+  "description": "Please complete the story below and create a program to solve the problem. Commit any work back to the remote no later than 48 hours before the next interview.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.2.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
